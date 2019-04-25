@@ -1,2 +1,5 @@
 # getswitchinfo
-# first project
+# function:
+# 本程序用来备份交换机配置文件和日志文件
+# 通过替换执行命令可以实现其他任务
+# 通过ssh方式登录---交互方式实现相关功能
